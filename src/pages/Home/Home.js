@@ -1,4 +1,4 @@
-import { View, Text, TouchableOpacity, StatusBar, Image, TextInput, ScrollView, SafeAreaView, RefreshControl } from 'react-native'
+import { View, Text, TouchableOpacity, StatusBar, Image, TextInput, ScrollView, SafeAreaView, RefreshControl, Keyboard } from 'react-native'
 import React, { useEffect, useState } from 'react'
 
 import { color } from '../../constantComponent/color';
@@ -8,12 +8,14 @@ import { useIsFocused } from '@react-navigation/native';
 import moment from 'moment';
 import { apiMethod, apiRoutes, apimethods } from '../../apiConfig/apiurl';
 import Loader from '../../constantComponent/Loader';
+import { Dropdown } from 'react-native-element-dropdown';
 
 const Home = props => {
 
   const Color = useSelector(state => state.Theme.Color)
   const [refersh, setrefersh] = useState(false)
   const [loading, setloading] = useState(false)
+  const [gender, setGender] = useState('')
 
   const handleDatePress = (date) => {
     setSelectedDated(date);
@@ -43,6 +45,39 @@ const Home = props => {
 
   const [recentScan, setrecentScan] = useState(null)
 
+
+  const Month = [
+    { label: 'January', value: 'January' },
+    { label: 'February', value: 'February' },
+    { label: 'March', value: 'March' },
+    { label: 'April', value: 'April' },
+    { label: 'May', value: 'May' },
+    { label: 'June', value: 'June' },
+    { label: 'July', value: 'July' },
+    { label: 'August', value: 'August' },
+    { label: 'September', value: 'September' },
+    { label: 'October', value: 'October' },
+    { label: 'November', value: 'November' },
+    { label: 'December', value: 'December' },
+
+
+  ];
+  const Year = [
+    { label: '2015', value: '2015' },
+    { label: '2016', value: '2016' },
+    { label: '2017', value: '2017' },
+    { label: '2018', value: '2018' },
+    { label: '2019', value: '2019' },
+    { label: '2020', value: '2020' },
+    { label: '2021', value: '2021' },
+    { label: '2022', value: '2022' },
+    { label: '2023', value: '2023' },
+    { label: '2024', value: '2024' },
+    { label: '2025', value: '2025' },
+    { label: '2026', value: '2026' },
+
+
+  ];
 
   const formatMonth = (month) => {
     const monthMap = {
@@ -164,45 +199,102 @@ const Home = props => {
 
               }}>
 
+                <Dropdown
+                  style={{
+                    height: 40,
+                    width: '40%',
+                    marginVertical: 0,
+                    paddingHorizontal: 10,
+                    backgroundColor: 'transparent',
+                    // borderWidth: 1,
+                    // borderRadius: 5,
+                    borderColor: '#000'
+                  }}
+                  placeholderStyle={{
+                    fontSize: 14,
+                    // fontFamily: fontFamily.Montserrat_Medium,
+                    color: 'gray'
+                  }}
+                  selectedTextStyle={{
+                    fontSize: 16,
+                    color: '#000',
+                    // fontFamily: fontFamily.Montserrat_Medium
+                  }}
+                  inputSearchStyle={{
+                    borderWidth: 0,
+                    borderBottomWidth: 1,
+                    color: '#000',
+                    borderColor: 'lightgray',
+                    fontSize: 12
+                  }}
+                  iconStyle={{
+                    width: 25,
+                    height: 25,
+                    tintColor: '#000'
 
-                <Picker
-                  selectedValue={selectedYear}
+                  }}
+                  data={Month}
+                  itemTextStyle={{ color: '#000' }}
+                  maxHeight={400}
+                  labelField="label"
+                  valueField="value"
+                  placeholder="Select Gender"
+                  searchPlaceholder="Search..."
+                  value={selectedMonth}
+                  onChange={item => { setSelectedMonth(item.value) }}
+                  onSubmitEditing={() => Keyboard.dismiss()}
+                />
+                <Dropdown
+                  style={{
+                    height: 40,
+                    width: '40%',
+                    marginVertical: 0,
+                    paddingHorizontal: 15,
+                    backgroundColor: 'transparent',
+                    // borderWidth: 1,
+                    borderRadius: 5,
+                    borderColor: '#000'
+                  }}
+                  placeholderStyle={{
+                    fontSize: 14,
+                    // fontFamily: fontFamily.Montserrat_Medium,
+                    color: 'gray'
+                  }}
+                  selectedTextStyle={{
+                    fontSize: 16,
+                    color: '#000',
+                    // fontFamily: fontFamily.Montserrat_Medium
+                  }}
+                  inputSearchStyle={{
+                    borderWidth: 0,
+                    borderBottomWidth: 1,
+                    color: '#000',
+                    borderColor: 'lightgray',
+                    fontSize: 12
+                  }}
+                  iconStyle={{
+                    width: 25,
+                    height: 25,
+                    tintColor: '#000'
 
-                  style={{ height: 50, width: 150, color: '#000', }}
-                  onValueChange={(itemValue) => setSelectedYear(itemValue)}>
+                  }}
+                  data={Year}
+                  itemTextStyle={{ color: '#000' }}
+                  maxHeight={400}
+                  labelField="label"
+                  valueField="value"
+                  placeholder="Select Gender"
+                  searchPlaceholder="Search..."
+                  value={selectedYear}
+                  // onChange={item => { setGender(item.value) }}
+                  onChange={item => { setSelectedYear(item.value) }}
+                  onSubmitEditing={() => Keyboard.dismiss()}
+                />
 
-                  <Picker.Item label="2015" value={2015} />
-                  <Picker.Item label="2016" value={2016} />
-                  <Picker.Item label="2017" value={2017} />
-                  <Picker.Item label="2018" value={2018} />
-                  <Picker.Item label="2019" value={2019} />
-                  <Picker.Item label="2020" value={2020} />
-                  <Picker.Item label="2021" value={2021} />
-                  <Picker.Item label="2022" value={2022} />
-                  <Picker.Item label="2023" value={2023} />
-                  <Picker.Item label="2024" value={2024} />
 
-                </Picker>
-
-                <Picker
-                  selectedValue={selectedMonth}
-                  style={{ height: 50, width: 150, color: '#000' }}
-
-                  onValueChange={(itemValue) => setSelectedMonth(itemValue)}>
-                  <Picker.Item label="January" value={"January"} />
-                  <Picker.Item label="February" value={"February"} />
-                  <Picker.Item label="March" value={"March"} />
-                  <Picker.Item label="April" value={"April"} />
-                  <Picker.Item label="May" value={"May"} />
-                  <Picker.Item label="June" value={"June"} />
-                  <Picker.Item label="July" value={"July"} />
-                  <Picker.Item label="August" value={"August"} />
-                  <Picker.Item label="September" value={"September"} />
-                  <Picker.Item label="October" value={"October"} />
-                  <Picker.Item label="November" value={"November"} />
-                  <Picker.Item label="December" value={"December"} />
-                </Picker>
               </View>
+
+
               <View>
                 <View style={{ flexDirection: 'row', marginBottom: 5, alignSelf: 'center' }}>
                   <Text style={{ color: '#000', fontWeight: '700', fontSize: 16 }}>{selectedMonth}{"\t\t"}{selectedYear}</Text>

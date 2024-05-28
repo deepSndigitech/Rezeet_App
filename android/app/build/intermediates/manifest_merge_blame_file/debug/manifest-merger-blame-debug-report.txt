@@ -9,32 +9,32 @@
 9        android:targetSdkVersion="33" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\debug\AndroidManifest.xml:5:5-77
-11-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\debug\AndroidManifest.xml:5:22-75
+11-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\debug\AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:3:5-67
-12-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:3:22-64
+12-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:3:5-67
+12-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:3:22-64
 13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-13-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:8:5-80
-13-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:8:22-78
+13-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:8:5-80
+13-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:8:22-78
 14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-14-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\debug\AndroidManifest.xml:8:5-80
-14-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\debug\AndroidManifest.xml:8:22-77
+14-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\debug\AndroidManifest.xml:8:5-80
+14-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\debug\AndroidManifest.xml:8:22-77
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:4:5-79
-15-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:4:22-76
+15-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:4:5-79
+15-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:4:22-76
 16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-16-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:5:5-81
-16-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:5:22-78
+16-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:5:5-81
+16-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:5:22-78
 17    <uses-permission android:name="android.permission.VIBRATE" />
-17-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:6:5-65
-17-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:6:22-63
+17-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:6:5-65
+17-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:6:22-63
 18    <uses-permission android:name="android.permission.CAMERA" />
-18-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:7:5-65
-18-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:7:22-62
+18-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:7:5-65
+18-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:7:22-62
 19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-19-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:9:5-79
-19-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:9:22-76
+19-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:9:5-79
+19-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:9:22-76
 20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 20-->[com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-3\e13f88164840fe641a466d05cd8edac7\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:5-76
 20-->[com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-3\e13f88164840fe641a466d05cd8edac7\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:22-73
@@ -43,167 +43,167 @@
 23        (NOT to keep screen awake)
 24    -->
 25    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required to to download files without a notification -->
-25-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-68
-25-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:22-65
+25-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-68
+25-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:22-65
 26    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
-26-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:5-88
-26-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:22-85
+26-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:5-88
+26-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:22-85
 27
 28    <uses-feature
-28-->[:react-native-camera] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:9:5-11:36
+28-->[:react-native-camera] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:9:5-11:36
 29        android:name="android.hardware.camera"
-29-->[:react-native-camera] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:10:9-47
+29-->[:react-native-camera] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:10:9-47
 30        android:required="false" />
-30-->[:react-native-camera] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:11:9-33
+30-->[:react-native-camera] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:11:9-33
 31    <uses-feature
-31-->[:react-native-camera] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:12:5-14:36
+31-->[:react-native-camera] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:12:5-14:36
 32        android:name="android.hardware.camera.autofocus"
-32-->[:react-native-camera] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:13:9-57
+32-->[:react-native-camera] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:13:9-57
 33        android:required="false" />
-33-->[:react-native-camera] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:14:9-33
+33-->[:react-native-camera] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:14:9-33
 34
 35    <queries>
-35-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:15
+35-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:15
 36        <intent>
-36-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:18
+36-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:18
 37            <action android:name="android.media.action.IMAGE_CAPTURE" />
-37-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-73
-37-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:21-70
+37-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-73
+37-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:21-70
 38        </intent>
 39    </queries> <!-- Required to access Google Play Licensing -->
 40    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
-40-->[:rn-fetch-blob] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-73
-40-->[:rn-fetch-blob] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-70
+40-->[:rn-fetch-blob] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-73
+40-->[:rn-fetch-blob] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-70
 41
 42    <application
-42-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:17:5-39:19
+42-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:17:5-39:19
 43        android:name="com.rezeet.MainApplication"
-43-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:18:7-38
+43-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:18:7-38
 44        android:allowBackup="false"
-44-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:22:7-34
+44-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:22:7-34
 45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 45-->[androidx.core:core:1.8.0] C:\Users\Admin\.gradle\caches\transforms-3\9623e378e4dfc57c47793d0ffd25ee05\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 46        android:debuggable="true"
 47        android:exported="true"
-47-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:23:7-30
+47-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:23:7-30
 48        android:icon="@mipmap/ic_launcher"
-48-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:20:7-41
+48-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:20:7-41
 49        android:label="@string/app_name"
-49-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:19:7-39
+49-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:19:7-39
 50        android:roundIcon="@mipmap/ic_launcher_round"
-50-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:21:7-52
+50-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:21:7-52
 51        android:testOnly="true"
 52        android:theme="@style/AppTheme"
-52-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:25:7-38
+52-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:25:7-38
 53        android:usesCleartextTraffic="true" >
-53-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:24:7-42
+53-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:24:7-42
 54        <activity
-54-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\debug\AndroidManifest.xml:15:9-111
+54-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\debug\AndroidManifest.xml:15:9-111
 55            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-55-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\debug\AndroidManifest.xml:15:19-83
+55-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\debug\AndroidManifest.xml:15:19-83
 56            android:exported="false" />
-56-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\debug\AndroidManifest.xml:15:84-108
+56-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\debug\AndroidManifest.xml:15:84-108
 57        <activity
-57-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:26:7-38:18
+57-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:26:7-38:18
 58            android:name="com.rezeet.MainActivity"
-58-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:27:9-37
+58-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:27:9-37
 59            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-59-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:30:9-118
+59-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:30:9-118
 60            android:exported="true"
-60-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:33:9-32
+60-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:33:9-32
 61            android:label="@string/app_name"
-61-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:28:9-41
+61-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:28:9-41
 62            android:launchMode="singleTask"
-62-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:31:9-40
+62-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:31:9-40
 63            android:windowSoftInputMode="adjustResize" >
-63-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:32:9-51
+63-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:32:9-51
 64            <intent-filter>
-64-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:34:9-37:25
+64-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:34:9-37:25
 65                <action android:name="android.intent.action.MAIN" />
-65-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:35:13-65
-65-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:35:21-62
+65-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:35:13-65
+65-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:35:21-62
 66
 67                <category android:name="android.intent.category.LAUNCHER" />
-67-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:36:13-73
-67-->C:\Users\Admin\Desktop\RezeetApp-ios\android\app\src\main\AndroidManifest.xml:36:23-70
+67-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:36:13-73
+67-->C:\Users\Admin\Desktop\Rezeet_App_New\android\app\src\main\AndroidManifest.xml:36:23-70
 68            </intent-filter>
 69        </activity>
 70
 71        <provider
-71-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:9-43:20
+71-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:9-43:20
 72            android:name="com.ReactNativeBlobUtil.Utils.FileProvider"
-72-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-70
+72-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-70
 73            android:authorities="com.rezeet.provider"
-73-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-60
+73-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-60
 74            android:exported="false"
-74-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-37
+74-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-37
 75            android:grantUriPermissions="true" >
-75-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-47
+75-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-47
 76            <meta-data
-76-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-42:58
+76-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-42:58
 77                android:name="android.support.FILE_PROVIDER_PATHS"
-77-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:17-67
+77-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:17-67
 78                android:resource="@xml/provider_paths" />
-78-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-55
+78-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-55
 79        </provider>
 80        <provider
-80-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-24:20
+80-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-24:20
 81            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
-81-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-94
+81-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-94
 82            android:authorities="com.rezeet.provider"
-82-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-60
+82-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-60
 83            android:exported="false"
-83-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
+83-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
 84            android:grantUriPermissions="true" >
-84-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-47
+84-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-47
 85            <meta-data
-85-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-42:58
+85-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-42:58
 86                android:name="android.support.FILE_PROVIDER_PATHS"
-86-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:17-67
+86-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:17-67
 87                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
-87-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-55
+87-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-55
 88        </provider>
 89
 90        <activity
-90-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-28:72
+90-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-28:72
 91            android:name="com.yalantis.ucrop.UCropActivity"
-91-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-60
+91-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-60
 92            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-92-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-69
+92-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-69
 93
 94        <provider
-94-->[:react-native-share] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+94-->[:react-native-share] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
 95            android:name="cl.json.RNShareFileProvider"
-95-->[:react-native-share] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-55
+95-->[:react-native-share] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-55
 96            android:authorities="com.rezeet.rnshare.fileprovider"
-96-->[:react-native-share] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-72
+96-->[:react-native-share] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-72
 97            android:exported="false"
-97-->[:react-native-share] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+97-->[:react-native-share] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
 98            android:grantUriPermissions="true" >
-98-->[:react-native-share] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+98-->[:react-native-share] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
 99            <meta-data
-99-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-42:58
+99-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-42:58
 100                android:name="android.support.FILE_PROVIDER_PATHS"
-100-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:17-67
+100-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:17-67
 101                android:resource="@xml/share_download_paths" />
-101-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-55
+101-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-55
 102        </provider>
 103        <provider
-103-->[:rn-fetch-blob] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-40:20
+103-->[:rn-fetch-blob] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-40:20
 104            android:name="com.RNFetchBlob.Utils.FileProvider"
-104-->[:rn-fetch-blob] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-62
+104-->[:rn-fetch-blob] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-62
 105            android:authorities="com.rezeet.provider"
-105-->[:rn-fetch-blob] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-60
+105-->[:rn-fetch-blob] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-60
 106            android:exported="false"
-106-->[:rn-fetch-blob] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-37
+106-->[:rn-fetch-blob] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-37
 107            android:grantUriPermissions="true" >
-107-->[:rn-fetch-blob] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-47
+107-->[:rn-fetch-blob] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-47
 108            <meta-data
-108-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-42:58
+108-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-42:58
 109                android:name="android.support.FILE_PROVIDER_PATHS"
-109-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:17-67
+109-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:17-67
 110                android:resource="@xml/provider_paths" />
-110-->[:react-native-blob-util] C:\Users\Admin\Desktop\RezeetApp-ios\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-55
+110-->[:react-native-blob-util] C:\Users\Admin\Desktop\Rezeet_App_New\node_modules\react-native-blob-util\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-55
 111        </provider>
 112
 113        <service
